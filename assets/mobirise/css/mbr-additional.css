@@ -1456,8 +1456,8 @@ body {
   text-decoration: none;
 }
 .cid-qFo2JwNI5q {
-  padding-top: 60px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
@@ -1540,5 +1540,5 @@ body {
   display: none;
 }
 .cid-qFo2JwNI5q P {
-  text-align: center;
+  text-align: left;
 }
